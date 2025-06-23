@@ -1,0 +1,16 @@
+file 'screenshot_001.bmp'
+duration 1.0
+file 'screenshot_002.bmp'
+duration 1.0
+file 'screenshot_003.bmp'
+duration 0.75
+file 'screenshot_004.bmp'
+duration 2.0
+file 'screenshot_003.bmp'
+duration 0.75
+file 'screenshot_005.bmp'
+duration 1.0
+file 'screenshot_006.bmp'
+duration 1.0
+file 'screenshot_007.bmp'
+duration 1.0
